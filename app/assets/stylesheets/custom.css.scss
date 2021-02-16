@@ -1,4 +1,15 @@
 @import 'bootstrap/dist/css/bootstrap';
 .navbar {
-  background-color: #FDF6EA !important;
+  background-color: #f5f5f0 !important;
+}
+
+.search-area{
+  padding-top: 50px;
+}
+
+.no-left-padding{
+  padding-left: 0 !important;
+}
+.no-right-padding{
+  padding-right: 0 !important;
 }
